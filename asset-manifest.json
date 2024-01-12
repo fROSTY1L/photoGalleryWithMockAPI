@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/photoGalleryWithMockAPI/static/css/main.df4d82c8.css",
+    "main.js": "/photoGalleryWithMockAPI/static/js/main.780ba581.js",
+    "index.html": "/photoGalleryWithMockAPI/index.html",
+    "main.df4d82c8.css.map": "/photoGalleryWithMockAPI/static/css/main.df4d82c8.css.map",
+    "main.780ba581.js.map": "/photoGalleryWithMockAPI/static/js/main.780ba581.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df4d82c8.css",
+    "static/js/main.780ba581.js"
+  ]
+}
